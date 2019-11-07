@@ -1,12 +1,2 @@
-tomcat
-└── conf
-    ├── catalina.policy
-    ├── catalina.properties
-    ├── context.xml
-    ├── jaspic-providers.xml
-    ├── jaspic-providers.xsd
-    ├── logging.properties
-    ├── server.xml
-    ├── tomcat-users.xml
-    ├── tomcat-users.xsd
-    └── web.xml
+---
+1.0.0: https://github.com/rm511130/external_tomcat_configuration/tomcat-external-configuration-1.0.0.tar.gz
